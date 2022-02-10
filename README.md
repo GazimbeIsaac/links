@@ -1,4 +1,4 @@
-Hari Sekhon - Perl Library
+Isaac Gazimbe - Perl Library
 ==========================
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/b74a91c19a5845e2961533a5933381db)](https://www.codacy.com/app/harisekhon/lib)
@@ -96,11 +96,11 @@ Perl library, full of lots of validation code and utility functions.
 
 Needed for a lot of the programs I've written over the years. In fact my current main library was actually cobbled together from lots of pieces of code I wrote over the years since I found myself reusing common things over and over. This drastically reduces the amount of code and effort required to write new robust well validated code which is why it's used extensively throughout the portions of code you'll find on my GitHub account, especially all the Advanced Nagios Plugins Collection which I've been developing for many years since 2006
 
-Hari Sekhon
+Isaac Gazimbe
 
-Cloud & Big Data Contractor, United Kingdom
+Cloud & Big Data Contractor, Johanessburg South Africa
 
-[![My LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-HariSekhon-blue?logo=linkedin)](https://www.linkedin.com/in/harisekhon/)
+[![My LinkedIn](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)](https://www.linkedin.com/in/isaac-gazimbe-2154b015b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfqwmHWlSQsCxrWg%2FUOEfcg%3D%3D)
 ###### (you're welcome to connect with me on LinkedIn)
 
 #### Build + Unit Tests ####
